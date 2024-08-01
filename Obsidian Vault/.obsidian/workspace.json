@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "c8e14c2d313b5eac",
+    "type": "split",
+    "children": [
+      {
+        "id": "289d19008ccd86b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a34e6b1b82490d48",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ab82348283503cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "93bf5b01a1a8031a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87f8b428d7761a8f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f25a82dae4baace2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cd3557017e93f69d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3722eae4ed1a596f",
+    "type": "split",
+    "children": [
+      {
+        "id": "549c3ebaf657be97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a3df1aa481daa9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "092d74e7161a91a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63033f419403d7ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4b44c510083190ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a34e6b1b82490d48",
+  "lastOpenFiles": [
+    "NFS.md",
+    "Footprinting/Host-based Enumeration.md",
+    "Footprinting/Network Protocols/SMB.md",
+    "0-Penetration Testing Process/Penetration Testing Process.md",
+    "Footprinting/Network Protocols/FTP.md",
+    "Footprinting/Nmap.md",
+    "Footprinting/Infrastructure-based Enumeration.md",
+    "Footprinting/Enumeration.md",
+    "Footprinting/Network Protocols",
+    "Google Dorks.md",
+    "0-Penetration Testing Process/Information Gathering.md",
+    "0-Penetration Testing Process/Post-Engagement.md",
+    "0-Penetration Testing Process/Exploitation.md",
+    "0-Penetration Testing Process/Proof of Concept.md",
+    "0-Penetration Testing Process/Lateral Movement.md",
+    "0-Penetration Testing Process/Post-Exploitation.md",
+    "0-Penetration Testing Process/Vulnerability Assessment.md",
+    "0-Penetration Testing Process/Pre-Engagement.md",
+    "Footprinting",
+    "0-Penetration Testing Process/test",
+    "0-Penetration Testing Process"
+  ]
+}
