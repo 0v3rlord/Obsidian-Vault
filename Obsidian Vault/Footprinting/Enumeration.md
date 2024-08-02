@@ -1,4 +1,4 @@
-
+[[Enumeration Cheat Sheet]]
 ### Principles
 - There is more than meets the eye. Consider ALL points of view.
 - Distinguish between what we see and what we don't.

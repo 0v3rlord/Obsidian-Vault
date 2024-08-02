@@ -1,0 +1,48 @@
+Not only links server names to IP addresses, but can contain additional information about services associated with a domain.
+
+### DNS Server Types
+There are 6 types of DNS servers.
+
+| Server Type                    | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `DNS Root Server`              | The root servers of the DNS are responsible for the top-level domains (`TLD`). As the last instance, they are only requested if the name server does not respond. Thus, a root server is a central interface between users and content on the Internet, as it links domain and IP address. The [Internet Corporation for Assigned Names and Numbers](https://www.icann.org/) (`ICANN`) coordinates the work of the root name servers. There are `13` such root servers around the globe. |
+| `Authoritative Nameserver`     | Authoritative name servers hold authority for a particular zone. They only answer queries from their area of responsibility, and their information is binding. If an authoritative name server cannot answer a client's query, the root name server takes over at that point.                                                                                                                                                                                                            |
+| `Non-authoritative Nameserver` | Non-authoritative name servers are not responsible for a particular DNS zone. Instead, they collect information on specific DNS zones themselves, which is done using recursive or iterative DNS querying.                                                                                                                                                                                                                                                                               |
+| `Caching DNS Server`           | Caching DNS servers cache information from other name servers for a specified period. The authoritative name server determines the duration of this storage.                                                                                                                                                                                                                                                                                                                             |
+| `Forwarding Server`            | Forwarding servers perform only one function: they forward DNS queries to another DNS server.                                                                                                                                                                                                                                                                                                                                                                                            |
+| `Resolver`                     | Resolvers are not authoritative DNS servers but perform name resolution locally in the computer or router.                                                                                                                                                                                                                                                                                                                                                                               |
+Table source: https://academy.hackthebox.com/
+
+
+# Footprinting the Service
+
+###### NS Query
+```bash
+dig ns inlanefreight.htb @DNS_SRV_ADDRESS
+```
+
+###### Version Query
+```bash
+dig CH TXT version.bind server_ip 
+```
+
+### Zone Transfer
+- Zone transfer refers to the transfer of [[zones]] to another DNS server on port 53. The process is called **Asynchronous Full Transfer Zone (AXFR)**. A zone transfer is merely data being synchronized.
+- Zone transfers are to synchronize slave DNS servers. 
+- Using a secret **rndc-key**, DNS servers communicate with their master or slave.
+- Original zone data is stored on the **primary** name server for the zone.
+
+```bash
+# Zone Transfer
+dig axfr inlanefreight.htb @server_ip
+
+# You could find internal subdomains, allowing an Internal Zone Transfer
+dig axfr internal.inlanefreight.htb @server_ip
+```
+
+### Subdomain Brute Forcing
+You can also use **dnsenum**.
+```bash
+for sub in $(cat /opt/useful/SecLists/Discovery/DNS/subdomains-top1million-110000.txt);do dig $sub.inlanefreight.htb @10.129.14.128 | grep -v ';\|SOA' | sed -r '/^\s*$/d' | grep $sub | tee -a subdomains.txt;done
+```
+

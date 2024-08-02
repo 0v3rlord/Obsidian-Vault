@@ -1,4 +1,6 @@
-Obtain information through [[OSINT]] only!
+Obtain information through [[OSINT]].
+
+[[Enumeration Cheat Sheet]]
 # Domain Information
 Use https://crt.sh/ for domain information.
 Use https://shodan.io/ for IP information.

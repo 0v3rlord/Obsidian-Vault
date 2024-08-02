@@ -1,0 +1,4 @@
+- Simple Mail Transfer Protocol (SMTP) is for sending emails in an IP network.
+- Often combined with IMAP/POP3 for receiving (and sending) emails.
+- **Port: 25** (Newer servers may use other ports such as **587 TCP**)
+- Other ports may also be used for encryption, such as **port 465** TCP.
