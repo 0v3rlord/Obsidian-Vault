@@ -11,8 +11,13 @@
             "id": "a34e6b1b82490d48",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Footprinting/Host-based Enumeration.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Footprinting/Host-based Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Footprinting/Host-based Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Footprinting/Host-based Enumeration.md"
+              }
             }
           }
         ]
@@ -140,34 +149,34 @@
   },
   "active": "a34e6b1b82490d48",
   "lastOpenFiles": [
-    "Footprinting/Network Protocols/MSSQL.md",
-    "Footprinting/Network Protocols/SNMP.md",
-    "Footprinting/Network Protocols/MySQL.md",
-    "Footprinting/Network Protocols/FTP.md",
-    "Footprinting/Network Protocols/DNS.md",
-    "Footprinting/Host-based Enumeration.md",
-    "Footprinting/Enumeration.md",
+    "Footprinting/Network Protocols/RDP.md",
+    "Footprinting/Network Protocols/R-Services.md",
     "Footprinting/Enumeration Cheat Sheet.md",
-    "Footprinting/Network Protocols/IMAP+POP3.md",
-    "IMAP/POP3.md",
-    "IMAP",
-    "Footprinting/Network Protocols/SMTP.md",
-    "Current HackTheBox Module.md",
-    "Footprinting/Network Protocols/SMB.md",
-    "zones.md",
-    "Footprinting/Infrastructure-based Enumeration.md",
-    "Footprinting/Network Protocols/NFS.md",
+    "Footprinting/Host-based Enumeration.md",
+    "Footprinting/Network Protocols/SSH.md",
+    "Footprinting/Network Protocols/RSync.md",
+    "Footprinting/Enumeration.md",
     "0-Penetration Testing Process/Information Gathering.md",
     "0-Penetration Testing Process/Penetration Testing Process.md",
-    "Footprinting/Nmap.md",
-    "Footprinting/Network Protocols",
-    "Footprinting/Google Dorks.md",
-    "0-Penetration Testing Process/Post-Engagement.md",
-    "0-Penetration Testing Process/Exploitation.md",
-    "0-Penetration Testing Process/Proof of Concept.md",
-    "0-Penetration Testing Process/Lateral Movement.md",
-    "0-Penetration Testing Process/Post-Exploitation.md",
+    "Footprinting/Network Protocols/Linux Remote Management.md",
+    "Windows Remote Management.md",
+    "Footprinting/Network Protocols/IPMI.md",
+    "Footprinting/Network Protocols/Oracle TNS.md",
+    "Footprinting/Network Protocols/SMB.md",
+    "Footprinting/Network Protocols/NFS.md",
+    "Footprinting/Network Protocols/MySQL.md",
+    "Footprinting/Network Protocols/MSSQL.md",
+    "Footprinting/Network Protocols/IMAP+POP3.md",
+    "Footprinting/Network Protocols/FTP.md",
+    "Footprinting/Network Protocols/DNS.md",
     "0-Penetration Testing Process/Vulnerability Assessment.md",
+    "0-Penetration Testing Process/Proof of Concept.md",
+    "0-Penetration Testing Process/Pre-Engagement.md",
+    "0-Penetration Testing Process/Post-Exploitation.md",
+    "0-Penetration Testing Process/Post-Engagement.md",
+    "Footprinting/Network Protocols/SNMP.md",
+    "IMAP",
+    "Footprinting/Network Protocols",
     "Footprinting",
     "0-Penetration Testing Process/test",
     "0-Penetration Testing Process"

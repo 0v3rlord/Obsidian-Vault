@@ -92,21 +92,21 @@
 
 ##### [[Linux Remote Management]]
 
-|**Command**|**Description**|
-|---|---|
-|`ssh-audit.py <FQDN/IP>`|Remote security audit against the target SSH service.|
-|`ssh <user>@<FQDN/IP>`|Log in to the SSH server using the SSH client.|
-|`ssh -i private.key <user>@<FQDN/IP>`|Log in to the SSH server using private key.|
-|`ssh <user>@<FQDN/IP> -o PreferredAuthentications=password`|Enforce password-based authentication.|
+| **Command**                                                 | **Description**                                           |
+| ----------------------------------------------------------- | --------------------------------------------------------- |
+| `ssh-audit.py <FQDN/IP>`                                    | Remote security audit against the target [[SSH]] service. |
+| `ssh <user>@<FQDN/IP>`                                      | Log in to the SSH server using the SSH client.            |
+| `ssh -i private.key <user>@<FQDN/IP>`                       | Log in to the SSH server using private key.               |
+| `ssh <user>@<FQDN/IP> -o PreferredAuthentications=password` | Enforce password-based authentication.                    |
 
 ##### [[Windows Remote Management]]
 
-|**Command**|**Description**|
-|---|---|
-|`rdp-sec-check.pl <FQDN/IP>`|Check the security settings of the RDP service.|
-|`xfreerdp /u:<user> /p:"<password>" /v:<FQDN/IP>`|Log in to the RDP server from Linux.|
-|`evil-winrm -i <FQDN/IP> -u <user> -p <password>`|Log in to the WinRM server.|
-|`wmiexec.py <user>:"<password>"@<FQDN/IP> "<system command>"`|Execute command using the WMI service.|
+| **Command**                                                   | **Description**                                     |
+| ------------------------------------------------------------- | --------------------------------------------------- |
+| `rdp-sec-check.pl <FQDN/IP>`                                  | Check the security settings of the [[RDP]] service. |
+| `xfreerdp /u:<user> /p:"<password>" /v:<FQDN/IP>`             | Log in to the RDP server from Linux.                |
+| `evil-winrm -i <FQDN/IP> -u <user> -p <password>`             | Log in to the WinRM server.                         |
+| `wmiexec.py <user>:"<password>"@<FQDN/IP> "<system command>"` | Execute command using the WMI service.              |
 
 ##### [[Oracle TNS]]
 

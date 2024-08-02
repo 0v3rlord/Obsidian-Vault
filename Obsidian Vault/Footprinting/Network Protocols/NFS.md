@@ -1,6 +1,6 @@
 **Ports: 111 TCP, 2049 TCP**
 
-NFS has the same purpose as SMB. You can access files on the network as if they were part of the local system. 
+Network File System(**NFS**) has the same purpose as **SMB**. You can access files on the network as if they were part of the local system. 
 
 Based on SUN-RPC/ONC-RPC (Open Network Computing Remote Procedure Call)
 

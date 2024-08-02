@@ -1,4 +1,5 @@
 
+##### Common Services Enumeration
 - [[FTP]]
 - [[SMB]]
 - [[NFS]]
@@ -8,3 +9,11 @@
 - [[SNMP]]
 - [[MySQL]]
 - [[MSSQL]]
+- [[Oracle TNS]]
+- [[IPMI]]
+##### Linux Remote Management Protocols Enumeration
+- [[SSH]]
+- [[RSync]]
+- [[R-Services]]
+##### Windows Remote Management Protocols Enumeration
+- 
