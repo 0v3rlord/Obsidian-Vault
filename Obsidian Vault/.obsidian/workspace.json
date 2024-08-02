@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Footprinting/Host-based Enumeration.md",
+                "file": "Current HackTheBox Module.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Footprinting/Host-based Enumeration.md",
+                "file": "Current HackTheBox Module.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Footprinting/Host-based Enumeration.md",
+                "file": "Current HackTheBox Module.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Footprinting/Host-based Enumeration.md"
+                "file": "Current HackTheBox Module.md"
               }
             }
           }
@@ -149,10 +149,10 @@
   },
   "active": "a34e6b1b82490d48",
   "lastOpenFiles": [
+    "Footprinting/Host-based Enumeration.md",
     "Footprinting/Network Protocols/RDP.md",
     "Footprinting/Network Protocols/R-Services.md",
     "Footprinting/Enumeration Cheat Sheet.md",
-    "Footprinting/Host-based Enumeration.md",
     "Footprinting/Network Protocols/SSH.md",
     "Footprinting/Network Protocols/RSync.md",
     "Footprinting/Enumeration.md",

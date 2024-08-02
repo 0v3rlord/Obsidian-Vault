@@ -1,2 +1,2 @@
-Footprinting- SMTP
-https://academy.hackthebox.com/module/112/section/1072
+https://academy.hackthebox.com/module/112/section/1242
+Windows Remote Management Protocols
