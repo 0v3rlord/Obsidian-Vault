@@ -11,11 +11,25 @@
             "id": "a34e6b1b82490d48",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Footprinting/Enumeration.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01d2de4c3512a817",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,15 +152,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a34e6b1b82490d48",
+  "active": "01d2de4c3512a817",
   "lastOpenFiles": [
+    "Current HackTheBox Module.md",
+    "Footprinting/Enumeration.md",
+    "Footprinting/Enumeration Cheat Sheet.md",
     "Footprinting/Network Protocols/SMB.md",
     "Footprinting/Network Protocols/SMTP.md",
     "zones.md",
     "Footprinting/Host-based Enumeration.md",
     "Footprinting/Network Protocols/DNS.md",
-    "Footprinting/Enumeration Cheat Sheet.md",
-    "Footprinting/Enumeration.md",
     "Footprinting/Infrastructure-based Enumeration.md",
     "Footprinting/Network Protocols/NFS.md",
     "0-Penetration Testing Process/Information Gathering.md",
@@ -154,7 +169,7 @@
     "Footprinting/Network Protocols/FTP.md",
     "Footprinting/Nmap.md",
     "Footprinting/Network Protocols",
-    "Google Dorks.md",
+    "Footprinting/Google Dorks.md",
     "0-Penetration Testing Process/Post-Engagement.md",
     "0-Penetration Testing Process/Exploitation.md",
     "0-Penetration Testing Process/Proof of Concept.md",

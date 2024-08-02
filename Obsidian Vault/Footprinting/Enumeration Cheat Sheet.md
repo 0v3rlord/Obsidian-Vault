@@ -1,23 +1,24 @@
 ## [[Infrastructure-based Enumeration]]
 
-|**Command**|**Description**|
-|---|---|
-|`curl -s https://crt.sh/\?q\=<target-domain>\&output\=json \| jq .`|Certificate transparency.|
-|`for i in $(cat ip-addresses.txt);do shodan host $i;done`|Scan each IP address in a list using Shodan.|
+| **Command**                                                         | **Description**                              |
+| ------------------------------------------------------------------- | -------------------------------------------- |
+| `curl -s https://crt.sh/\?q\=<target-domain>\&output\=json \| jq .` | Certificate transparency.                    |
+| `for i in $(cat ip-addresses.txt);do shodan host $i;done`           | Scan each IP address in a list using Shodan. |
+|                                                                     |                                              |
 
 ---
 
-[[## Host-based Enumeration]]
+[[##Host-based Enumeration#]]
 
-##### FTP
+##### [[FTP]]
 
-|**Command**|**Description**|
-|---|---|
-|`ftp <FQDN/IP>`|Interact with the FTP service on the target.|
-|`nc -nv <FQDN/IP> 21`|Interact with the FTP service on the target.|
-|`telnet <FQDN/IP> 21`|Interact with the FTP service on the target.|
-|`openssl s_client -connect <FQDN/IP>:21 -starttls ftp`|Interact with the FTP service on the target using encrypted connection.|
-|`wget -m --no-passive ftp://anonymous:anonymous@<target>`|Download all available files on the target FTP server.|
+| **Command**                                               | **Description**                                                         |
+| --------------------------------------------------------- | ----------------------------------------------------------------------- |
+| `ftp <FQDN/IP>`                                           | Interact with the FTP service on the target.                            |
+| `nc -nv <FQDN/IP> 21`                                     | Interact with the FTP service on the target.                            |
+| `telnet <FQDN/IP> 21`                                     | Interact with the FTP service on the target.                            |
+| `openssl s_client -connect <FQDN/IP>:21 -starttls ftp`    | Interact with the FTP service on the target using encrypted connection. |
+| `wget -m --no-passive ftp://anonymous:anonymous@<target>` | Download all available files on the target FTP server.                  |
 
 ##### [[SMB]]
 
