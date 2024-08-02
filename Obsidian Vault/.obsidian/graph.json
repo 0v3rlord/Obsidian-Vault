@@ -8,10 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "",
+      "query": "sql",
       "color": {
         "a": 1,
-        "rgb": 65331
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:/",
+      "color": {
+        "a": 1,
+        "rgb": 65369
       }
     }
   ],
@@ -21,10 +28,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.484375,
-  "repelStrength": 10.3125,
-  "linkStrength": 0.515625,
+  "centerStrength": 0.296875,
+  "repelStrength": 11.1458333333333,
+  "linkStrength": 0.567708333333333,
   "linkDistance": 272,
-  "scale": 0.45050811767578125,
-  "close": false
+  "scale": 0.3003387451171875,
+  "close": true
 }
