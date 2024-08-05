@@ -14,7 +14,7 @@ showmount -e $TARGET
 
 ###### Mount NFS share
 ```bash
-mkdir target-NFS                                    # Create mount point
+sudo mkdir target-NFS                                    # Create mount point
 sudo mount -t nfs $TARGET:/ ./target-NFS -o nolock  # Mount NFS
 sudo umount ./target-NFS                            # Unmount 
 ```

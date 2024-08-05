@@ -17,4 +17,5 @@
 - [[R-Services]]
 ##### Windows Remote Management Protocols Enumeration
 - [[RDP]]
-- 
+- [[WinRM]]
+- [[WMI]]

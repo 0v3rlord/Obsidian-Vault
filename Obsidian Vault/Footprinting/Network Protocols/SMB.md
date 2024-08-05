@@ -1,6 +1,6 @@
 Ports: 139, 445
 
-Usually used by [[Windows]] hosts. Linux users can use Samba, which is  FOSS SMB.
+Usually used by [[WMI]] hosts. Linux users can use Samba, which is  FOSS SMB.
 
 Access rights are controlled by Access Control Lists (ACL), and are based on each share.
 

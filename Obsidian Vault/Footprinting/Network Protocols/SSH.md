@@ -21,5 +21,8 @@
 ssh -v user@$TARGET -o PreferredAuthentications=password
 ```
 
-
-**Nmap**
+##### Login with specified private key
+```bash
+chmod 600 id_rsa
+ssh user@$TARGET -i id_rsa
+```
