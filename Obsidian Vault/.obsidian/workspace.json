@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Footprinting/Network Protocols/MSSQL.md",
+                "file": "HTB CTF/GreenHorn/GreenHorn.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mssql",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Footprinting/Network Protocols/MSSQL.md",
+                "file": "HTB CTF/GreenHorn/GreenHorn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Footprinting/Network Protocols/MSSQL.md",
+                "file": "HTB CTF/GreenHorn/GreenHorn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Footprinting/Network Protocols/MSSQL.md"
+                "file": "HTB CTF/GreenHorn/GreenHorn.md"
               }
             }
           }
@@ -148,15 +147,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a34e6b1b82490d48",
+  "active": "87f8b428d7761a8f",
   "lastOpenFiles": [
+    "HTB CTF/GreenHorn/output.png",
+    "HTB CTF/GreenHorn/obfuscatedpwd.png",
+    "HTB CTF/GreenHorn/GreenHorn.png",
+    "HTB CTF/GreenHorn/GreenHorn.md",
+    "HTB CTF/GreenHorn",
+    "HTB CTF",
+    "Footprinting/Network Protocols/Oracle TNS.md",
+    "Footprinting/Network Protocols/SSH.md",
+    "Footprinting/Network Protocols/MSSQL.md",
     "Footprinting/Network Protocols/SMB.md",
     "Footprinting/Network Protocols/NFS.md",
-    "Footprinting/Network Protocols/MSSQL.md",
     "Footprinting/Enumeration Cheat Sheet.md",
     "Footprinting/Network Protocols/RDP.md",
     "Footprinting/Network Protocols/WMI.md",
-    "Footprinting/Network Protocols/SSH.md",
     "Footprinting/Network Protocols/FTP.md",
     "Footprinting/Network Protocols/WinRM.md",
     "Footprinting/Host-based Enumeration.md",
@@ -170,12 +176,9 @@
     "Footprinting/Network Protocols/Linux Remote Management.md",
     "Windows Remote Management.md",
     "Footprinting/Network Protocols/IPMI.md",
-    "Footprinting/Network Protocols/Oracle TNS.md",
     "Footprinting/Network Protocols/MySQL.md",
     "Footprinting/Network Protocols/IMAP+POP3.md",
     "Footprinting/Network Protocols/DNS.md",
-    "0-Penetration Testing Process/Vulnerability Assessment.md",
-    "0-Penetration Testing Process/Proof of Concept.md",
     "IMAP",
     "Footprinting/Network Protocols",
     "Footprinting",

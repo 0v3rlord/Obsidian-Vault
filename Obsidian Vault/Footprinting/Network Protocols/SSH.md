@@ -1,5 +1,5 @@
 - Secure Shell(**SSH**) is a [[Linux Remote Management]] protocol.
-- Port: **21 TCP**
+- Port: **22 TCP**
 
 #### Authentication Methods
 1. Password 
