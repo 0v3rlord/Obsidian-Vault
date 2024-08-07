@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "289d19008ccd86b6",
+        "id": "7c375c29b7deb621",
         "type": "tabs",
         "children": [
           {
-            "id": "a34e6b1b82490d48",
+            "id": "7e8eca5deaf0b1d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB CTF/GreenHorn/GreenHorn.md",
+                "file": "Web Recon/Subdomains.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB CTF/GreenHorn/GreenHorn.md",
+                "file": "Web Recon/Subdomains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB CTF/GreenHorn/GreenHorn.md",
+                "file": "Web Recon/Subdomains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB CTF/GreenHorn/GreenHorn.md"
+                "file": "Web Recon/Subdomains.md"
               }
             }
           }
@@ -149,10 +149,29 @@
   },
   "active": "87f8b428d7761a8f",
   "lastOpenFiles": [
+    "Web Recon/Web Recon.md",
+    "Web Recon/Subdomains.md",
+    "Footprinting/Network Protocols/DNS.md",
+    "dnsenum.md",
+    "Active Subdomain Enumeration.md",
+    "Web Recon/dig.md",
+    "Untitled.canvas",
+    "2024-08-06.md",
+    "HTB CTF/GreenHorn/GreenHorn.md",
+    "Web Recon/WHOIS.md",
+    "0-Penetration Testing Process/Proof of Concept.md",
+    "Footprinting/Enumeration.md",
+    "0-Penetration Testing Process/Information Gathering.md",
+    "0-Penetration Testing Process/Penetration Testing Process.md",
+    "0-Penetration Testing Process/Post-Engagement.md",
+    "0-Penetration Testing Process/Post-Exploitation.md",
+    "0-Penetration Testing Process/Pre-Engagement.md",
+    "Current HackTheBox Module.md",
+    "PT-process.png",
+    "Web Recon",
     "HTB CTF/GreenHorn/output.png",
     "HTB CTF/GreenHorn/obfuscatedpwd.png",
     "HTB CTF/GreenHorn/GreenHorn.png",
-    "HTB CTF/GreenHorn/GreenHorn.md",
     "HTB CTF/GreenHorn",
     "HTB CTF",
     "Footprinting/Network Protocols/Oracle TNS.md",
@@ -164,21 +183,6 @@
     "Footprinting/Network Protocols/RDP.md",
     "Footprinting/Network Protocols/WMI.md",
     "Footprinting/Network Protocols/FTP.md",
-    "Footprinting/Network Protocols/WinRM.md",
-    "Footprinting/Host-based Enumeration.md",
-    "Linux Remote Management.md",
-    "Current HackTheBox Module.md",
-    "Footprinting/Network Protocols/R-Services.md",
-    "Footprinting/Network Protocols/RSync.md",
-    "Footprinting/Enumeration.md",
-    "0-Penetration Testing Process/Information Gathering.md",
-    "0-Penetration Testing Process/Penetration Testing Process.md",
-    "Footprinting/Network Protocols/Linux Remote Management.md",
-    "Windows Remote Management.md",
-    "Footprinting/Network Protocols/IPMI.md",
-    "Footprinting/Network Protocols/MySQL.md",
-    "Footprinting/Network Protocols/IMAP+POP3.md",
-    "Footprinting/Network Protocols/DNS.md",
     "IMAP",
     "Footprinting/Network Protocols",
     "Footprinting",

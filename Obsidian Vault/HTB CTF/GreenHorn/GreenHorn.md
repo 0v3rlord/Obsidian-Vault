@@ -1,5 +1,5 @@
 ![[GreenHorn.png]]
-
+#pwned
 # Information Gathering
 `sudo nmap -sS $target -p- -T4 --min-rate=1000 -oN initial.nmap`
 ```bash
@@ -30,7 +30,7 @@ Cracking reveals **password: iloveyou1**
 # Exploitation
 Site backdoored by uploading a zip file containing php webshell.
 
-Discovered user **junior:iloveyou1**
+Discovered user **junior:iloveyou1** #
 
 # Rooting
 Use [Depix.py](https://github.com/spipm/Depix/) on the obfuscated password image, revealing root password:

@@ -9,3 +9,5 @@ Consists of:
 6. [[Lateral Movement]]
 7. [[Proof of Concept]]
 8. [[Post-Engagement]]
+
+![[PT-process.png]]
