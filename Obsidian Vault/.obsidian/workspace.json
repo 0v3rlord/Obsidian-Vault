@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB CTF/Usage/Usage.md",
+                "file": "Post-Exploitation/Linux/Linux Services+Internals Enumeration.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB CTF/Usage/Usage.md",
+                "file": "Post-Exploitation/Linux/Linux Services+Internals Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB CTF/Usage/Usage.md",
+                "file": "Post-Exploitation/Linux/Linux Services+Internals Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB CTF/Usage/Usage.md"
+                "file": "Post-Exploitation/Linux/Linux Services+Internals Enumeration.md"
               }
             }
           }
@@ -149,45 +149,47 @@
   },
   "active": "87f8b428d7761a8f",
   "lastOpenFiles": [
+    "Information Gathering",
+    "Post-Exploitation/Linux",
+    "Post-Exploitation/Linux/Linux Enumeration.md",
+    "Post-Exploitation/Linux/Linux Services+Internals Enumeration.md",
+    "Linux Environment Enumeration.md",
+    "Post-Exploitation/Linux/Linux Privilege Escalation.md",
+    "0-Penetration Testing Process/Post-Exploitation.md",
+    "Post-Exploitation",
+    "HTB CTF/Usage/Usage.md",
     "HTB CTF/Usage/Usage.png",
     "HTB CTF/GreenHorn/GreenHorn.md",
-    "HTB CTF/Usage/Usage.md",
-    "Footprinting/Network Protocols/DNS.md",
+    "Information Gathering/Footprinting/Network Protocols/DNS.md",
     "HTB CTF/Usage",
-    "Web Recon/Subdomains.md",
-    "Web Recon/Web Recon.md",
-    "Web Recon/dnsenum.md",
-    "Web Recon/Active Subdomain Enumeration.md",
-    "Web Recon/dig.md",
+    "Information Gathering/Web Recon/Subdomains.md",
+    "Information Gathering/Web Recon/Web Recon.md",
+    "Information Gathering/Web Recon/dnsenum.md",
+    "Information Gathering/Web Recon/Active Subdomain Enumeration.md",
+    "Information Gathering/Web Recon/dig.md",
     "Untitled.canvas",
     "2024-08-06.md",
-    "Web Recon/WHOIS.md",
+    "Information Gathering/Web Recon/WHOIS.md",
     "0-Penetration Testing Process/Proof of Concept.md",
-    "Footprinting/Enumeration.md",
+    "Information Gathering/Footprinting/Enumeration.md",
     "0-Penetration Testing Process/Information Gathering.md",
     "0-Penetration Testing Process/Penetration Testing Process.md",
     "0-Penetration Testing Process/Post-Engagement.md",
-    "0-Penetration Testing Process/Post-Exploitation.md",
     "0-Penetration Testing Process/Pre-Engagement.md",
     "Current HackTheBox Module.md",
     "0-Penetration Testing Process/PT-process.png",
-    "Web Recon",
+    "Information Gathering/Web Recon",
     "HTB CTF/GreenHorn/output.png",
     "HTB CTF/GreenHorn/obfuscatedpwd.png",
     "HTB CTF/GreenHorn/GreenHorn.png",
     "HTB CTF/GreenHorn",
     "HTB CTF",
-    "Footprinting/Network Protocols/Oracle TNS.md",
-    "Footprinting/Network Protocols/SSH.md",
-    "Footprinting/Network Protocols/MSSQL.md",
-    "Footprinting/Network Protocols/SMB.md",
-    "Footprinting/Network Protocols/NFS.md",
-    "Footprinting/Enumeration Cheat Sheet.md",
-    "Footprinting/Network Protocols/RDP.md",
+    "Information Gathering/Footprinting/Network Protocols/Oracle TNS.md",
+    "Information Gathering/Footprinting/Network Protocols/SSH.md",
+    "Information Gathering/Footprinting/Network Protocols/MSSQL.md",
     "IMAP",
-    "Footprinting/Network Protocols",
-    "Footprinting",
-    "0-Penetration Testing Process/test",
-    "0-Penetration Testing Process"
+    "Information Gathering/Footprinting/Network Protocols",
+    "Information Gathering/Footprinting",
+    "0-Penetration Testing Process/test"
   ]
 }
