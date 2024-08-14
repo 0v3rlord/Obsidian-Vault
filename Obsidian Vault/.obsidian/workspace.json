@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Permissions Based Privilege Escalation.md",
+                "file": "Post-Exploitation/Linux/Linux Permissions Based Privilege Escalation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Permissions Based Privilege Escalation.md",
+                "file": "Post-Exploitation/Linux/Linux Permissions Based Privilege Escalation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Permissions Based Privilege Escalation.md",
+                "file": "Post-Exploitation/Linux/Linux Permissions Based Privilege Escalation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Permissions Based Privilege Escalation.md"
+                "file": "Post-Exploitation/Linux/Linux Permissions Based Privilege Escalation.md"
               }
             }
           }
@@ -147,11 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e8eca5deaf0b1d7",
+  "active": "87f8b428d7761a8f",
   "lastOpenFiles": [
-    "Post-Exploitation/Linux/Linux Environment-based Privilege Escalation.md",
-    "Linux Permissions Based Privilege Escalation.md",
     "Post-Exploitation/Linux/Linux Privilege Escalation.md",
+    "Post-Exploitation/Linux/Linux Permissions Based Privilege Escalation.md",
+    "Post-Exploitation/Linux/Linux Environment-based Privilege Escalation.md",
     "Wildcard Abuse.md",
     "Post-Exploitation/Linux/Linux.md",
     "Post-Exploitation/Linux/Escaping Restricted Shells.md",
