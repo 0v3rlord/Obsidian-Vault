@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current HackTheBox Module.md",
+                "file": "Post-Exploitation/Linux/Linux Permissions Based Privilege Escalation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current HackTheBox Module.md",
+                "file": "Post-Exploitation/Linux/Linux Permissions Based Privilege Escalation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Current HackTheBox Module.md",
+                "file": "Post-Exploitation/Linux/Linux Permissions Based Privilege Escalation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Current HackTheBox Module.md"
+                "file": "Post-Exploitation/Linux/Linux Permissions Based Privilege Escalation.md"
               }
             }
           }
@@ -149,17 +149,24 @@
   },
   "active": "7e8eca5deaf0b1d7",
   "lastOpenFiles": [
-    "Post-Exploitation/Linux/Linux Permissions Based Privilege Escalation.md",
-    "Post-Exploitation/Linux/Linux Privilege Escalation.md",
-    "Post-Exploitation/Linux/Linux Environment-based Privilege Escalation.md",
-    "Wildcard Abuse.md",
-    "Post-Exploitation/Linux/Linux.md",
-    "Post-Exploitation/Linux/Escaping Restricted Shells.md",
-    "Post-Exploitation/Linux/Linux Services+Internals Enumeration.md",
-    "0-Penetration Testing Process/Post-Exploitation.md",
+    "Current HackTheBox Module.md",
     "Post-Exploitation/Linux/Credential Hunting.md",
-    "Post-Exploitation/Linux/Linux Information Gathering.md",
+    "HTB CTF/PermX/PermX.md",
+    "Post-Exploitation/Linux/Linux Permissions Based Privilege Escalation.md",
     "Post-Exploitation/Linux/Linux Environment Enumeration.md",
+    "Post-Exploitation/Linux/Linux.md",
+    "Post-Exploitation/Linux/Linux Environment-based Privilege Escalation.md",
+    "Post-Exploitation/Linux/Linux Privilege Escalation.md",
+    "Post-Exploitation/Linux/Linux Services+Internals Enumeration.md",
+    "HTB CTF/PermX/Regresshion.md",
+    "HTB CTF/PermX/wappalyzer_permx-htb 2.csv",
+    "HTB CTF/PermX/wappalyzer_permx-htb 1.csv",
+    "HTB CTF/PermX/wappalyzer_permx-htb.csv",
+    "HTB CTF/PermX",
+    "Wildcard Abuse.md",
+    "Post-Exploitation/Linux/Escaping Restricted Shells.md",
+    "0-Penetration Testing Process/Post-Exploitation.md",
+    "Post-Exploitation/Linux/Linux Information Gathering.md",
     "Information Gathering",
     "Post-Exploitation/Linux",
     "Post-Exploitation",
@@ -178,18 +185,11 @@
     "Information Gathering/Web Recon/WHOIS.md",
     "0-Penetration Testing Process/Proof of Concept.md",
     "Information Gathering/Footprinting/Enumeration.md",
-    "0-Penetration Testing Process/Information Gathering.md",
-    "0-Penetration Testing Process/Penetration Testing Process.md",
-    "0-Penetration Testing Process/Post-Engagement.md",
     "0-Penetration Testing Process/PT-process.png",
     "Information Gathering/Web Recon",
     "HTB CTF/GreenHorn/output.png",
     "HTB CTF/GreenHorn/obfuscatedpwd.png",
     "HTB CTF/GreenHorn/GreenHorn.png",
-    "HTB CTF/GreenHorn",
-    "HTB CTF",
-    "IMAP",
-    "Information Gathering/Footprinting/Network Protocols",
-    "Information Gathering/Footprinting"
+    "HTB CTF/GreenHorn"
   ]
 }
